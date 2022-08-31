@@ -1,6 +1,6 @@
 # Django-basic-project-SoftUni-Fundamentals
 
-![Phonebook](https://user-images.githubusercontent.com/68993494/187512586-1fc79e69-1b20-42ac-93f2-a470fbfb3331.jpg)
+![phonebook](https://user-images.githubusercontent.com/68993494/187578710-ade27bf1-91af-4c55-afb4-68a9a531b853.jpg)
 
 Django project part of software engineering training at SoftUni University
 
