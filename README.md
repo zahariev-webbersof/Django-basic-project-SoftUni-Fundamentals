@@ -2,6 +2,12 @@
 
 ![phonebook](https://user-images.githubusercontent.com/68993494/187578710-ade27bf1-91af-4c55-afb4-68a9a531b853.jpg)
 
+## Technologies used:
+- Python
+- Django
+- HTML
+- CSS
+
 Django project part of software engineering training at SoftUni University
 
 Course lecturer - Mario Zahariev
